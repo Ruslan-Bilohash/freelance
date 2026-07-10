@@ -1,0 +1,21 @@
+{
+    "default_tier": "simple",
+    "pro_monthly_fee": 299,
+    "simple_proposal_limit": 5,
+    "require_admin_activation": true,
+    "pro_featured_listing": true,
+    "site_tagline": "Freelance CMS Demo",
+    "color_primary": "#10b981",
+    "color_button": "#10b981",
+    "color_button_hover": "#059669",
+    "bg_color": "#000000",
+    "bg_image": "",
+    "recaptcha_enabled": true,
+    "recaptcha_site_key": "",
+    "recaptcha_secret_key": "",
+    "chat_enabled": true,
+    "chat_provider": "none",
+    "chat_api_key": "",
+    "chat_instructions": "You are a sales assistant for Freelance CMS — a PHP freelance marketplace script from Norway. Help visitors understand demo features: projects, freelancers, Simple\/Pro tiers, admin panel, SEO regions. Suggest ordering custom development at bilohash.com.",
+    "seo_selling_text": ""
+}

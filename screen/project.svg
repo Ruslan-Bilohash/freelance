@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <rect width="1200" height="700" fill="#0c1222"/>
+  <rect x="60" y="60" width="700" height="360" rx="12" fill="#141d33" stroke="#059669"/>
+  <rect x="80" y="80" width="660" height="200" rx="8" fill="#1a2744"/>
+  <text x="100" y="320" fill="#e8edf5" font-family="Segoe UI,sans-serif" font-size="22" font-weight="700">Next.js e-commerce rebuild</text>
+  <text x="100" y="350" fill="#94a3b8" font-family="Segoe UI,sans-serif" font-size="13">Web development · Expert · Oslo, Norway</text>
+  <rect x="100" y="370" width="80" height="24" rx="12" fill="rgba(16,185,129,.2)" stroke="#10b981"/>
+  <rect x="190" y="370" width="70" height="24" rx="12" fill="rgba(16,185,129,.2)" stroke="#10b981"/>
+  <rect x="800" y="60" width="340" height="360" rx="12" fill="#141d33" stroke="#10b981"/>
+  <text x="830" y="110" fill="#94a3b8" font-family="Segoe UI,sans-serif" font-size="12">BUDGET</text>
+  <text x="830" y="150" fill="#34d399" font-family="Segoe UI,sans-serif" font-size="28" font-weight="700">45 000 – 75 000 kr</text>
+  <rect x="830" y="200" width="280" height="44" rx="8" fill="#10b981"/>
+  <text x="970" y="228" fill="#fff" font-family="Segoe UI,sans-serif" font-size="14" font-weight="700" text-anchor="middle">Send proposal</text>
+  <rect x="60" y="450" width="1080" height="200" rx="12" fill="#141d33"/>
+  <text x="90" y="490" fill="#34d399" font-family="Segoe UI,sans-serif" font-size="14" font-weight="600">Related projects</text>
+</svg>

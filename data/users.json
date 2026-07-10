@@ -1,0 +1,44 @@
+[
+    {
+        "id": "usr-anna-demo",
+        "email": "anna@demo.no",
+        "password_hash": "$2y$10$R0Va9X3\/Ws7UGI98gjkHVuURST511d1xXEWE2AfKeThqeHxn6lO0y",
+        "role": "freelancer",
+        "tier": "pro",
+        "activation_status": "active",
+        "freelancer_id": "anna-hansen-dev",
+        "firstname": "Anna",
+        "lastname": "Hansen",
+        "phone": "+4798765432",
+        "created_at": "2024-03-15T10:00:00+02:00",
+        "last_login": "2026-06-27T00:06:57+00:00"
+    },
+    {
+        "id": "usr-ole-demo",
+        "email": "ole@demo.no",
+        "password_hash": "$2y$10$Oot0Pmc5QHqJZHbca06q6.B0EyZ\/7y8FkDzaGojs\/BPTTF7h\/VaQS",
+        "role": "freelancer",
+        "tier": "simple",
+        "activation_status": "active",
+        "freelancer_id": "ole-nordmann-design",
+        "firstname": "Ole",
+        "lastname": "Nordmann",
+        "phone": "+4744455566",
+        "created_at": "2025-01-10T10:00:00+02:00",
+        "last_login": null
+    },
+    {
+        "id": "usr-viktor-pending",
+        "email": "viktor@demo.ua",
+        "password_hash": "$2y$10$jBBN4r2qKQtDWEXJesxNpOId4NzvjhCgd0hJMEzxAXerWw.Rq6iVG",
+        "role": "freelancer",
+        "tier": "simple",
+        "activation_status": "active",
+        "freelancer_id": "viktor-petrenko-wp",
+        "firstname": "Viktor",
+        "lastname": "Petrenko",
+        "phone": "+380501234567",
+        "created_at": "2026-06-20T10:00:00+02:00",
+        "last_login": null
+    }
+]

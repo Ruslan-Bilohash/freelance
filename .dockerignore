@@ -1,0 +1,12 @@
+.git
+.gitignore
+data/settings.json
+data/users.json
+**/.env
+**/.env.*
+dist
+*.zip
+.DS_Store
+Thumbs.db
+.idea
+.vscode

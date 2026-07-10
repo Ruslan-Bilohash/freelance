@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <rect width="1200" height="700" fill="#0c1222"/>
+  <rect x="0" y="0" width="1200" height="48" fill="#141d33"/>
+  <text x="40" y="32" fill="#34d399" font-family="Segoe UI,sans-serif" font-size="18" font-weight="700">Freelancers</text>
+  <rect x="60" y="80" width="1080" height="56" rx="10" fill="#1a2744" stroke="#10b981"/>
+  <text x="90" y="115" fill="#e8edf5" font-family="Segoe UI,sans-serif" font-size="16" font-weight="600">Top freelancers — Pro &amp; Simple</text>
+  <rect x="60" y="160" width="340" height="240" rx="12" fill="#141d33" stroke="#059669"/>
+  <circle cx="130" cy="250" r="40" fill="#1a2744" stroke="#10b981" stroke-width="3"/>
+  <rect x="190" y="220" width="160" height="14" rx="4" fill="#1a2744"/>
+  <rect x="190" y="245" width="120" height="10" rx="4" fill="#059669"/>
+  <rect x="90" y="310" width="70" height="22" rx="4" fill="#1a2744" stroke="#10b981"/>
+  <rect x="420" y="160" width="340" height="240" rx="12" fill="#141d33" stroke="#059669"/>
+  <circle cx="490" cy="250" r="40" fill="#1a2744" stroke="#10b981" stroke-width="3"/>
+  <rect x="550" y="220" width="160" height="14" rx="4" fill="#1a2744"/>
+  <rect x="550" y="245" width="120" height="10" rx="4" fill="#059669"/>
+  <rect x="780" y="160" width="340" height="240" rx="12" fill="#141d33" stroke="#10b981"/>
+  <circle cx="850" cy="250" r="40" fill="#1a2744" stroke="#10b981" stroke-width="3"/>
+  <rect x="910" y="220" width="160" height="14" rx="4" fill="#1a2744"/>
+  <rect x="60" y="430" width="340" height="240" rx="12" fill="#141d33" stroke="#059669"/>
+  <rect x="420" y="430" width="340" height="240" rx="12" fill="#141d33" stroke="#059669"/>
+  <rect x="780" y="430" width="340" height="240" rx="12" fill="#141d33" stroke="#059669"/>
+</svg>

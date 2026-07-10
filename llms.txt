@@ -1,0 +1,93 @@
+# Freelance CMS — LLM / AI agent context
+# https://bilohash.com/freelance/
+
+> Freelance CMS is a PHP freelance marketplace and job board platform. The live demo shows project listings, proposal forms and admin management — customizable for Upwork/Fiverr-style talent networks across Norway and Europe.
+
+## Product
+- Name: Freelance CMS
+- Type: PHP freelance marketplace / job board script (no framework)
+- Languages: Norwegian (default), English, Ukrainian, Russian
+- Contact: https://bilohash.com/freelance/contact.php
+- Developer: https://bilohash.com/
+
+## Core URLs
+- Live demo: https://bilohash.com/freelance/
+- Use cases hub: https://bilohash.com/freelance/solutions.php
+- Become a freelancer: https://bilohash.com/freelance/become-freelancer.php
+- SEO regions hub: https://bilohash.com/freelance/regions.php
+- Product page: https://bilohash.com/freelance/site/
+- Contact / order development: https://bilohash.com/freelance/contact.php
+- Admin demo: https://bilohash.com/freelance/admin/ (demo / bilofreelance2026)
+- Sitemap: https://bilohash.com/freelance/sitemap.php
+
+## Industry solution pages (10 vertical SEO landings)
+Each page has unique title, meta description, keywords, FAQPage + Service Schema.org JSON-LD, hreflang NO/EN/UK/RU.
+
+1. Web agencies — https://bilohash.com/freelance/web-agencies/
+   PHP/React talent marketplace for web agencies. White-label job board, proposals, admin.
+
+2. Design studios — https://bilohash.com/freelance/design-studios/
+   UI/UX, branding, product design freelancer board with portfolio profiles.
+
+3. AI consultants — https://bilohash.com/freelance/ai-consultants/
+   Grok, OpenAI, RAG chatbot and ML integration marketplace template.
+
+4. WordPress shops — https://bilohash.com/freelance/wordpress-shops/
+   Elementor, WooCommerce, plugin gigs. Clickable WordPress skill tags for internal SEO.
+
+5. Mobile dev teams — https://bilohash.com/freelance/mobile-dev-teams/
+   iOS, Android, React Native, Flutter freelance hiring board.
+
+6. Marketing networks — https://bilohash.com/freelance/marketing-freelancers/
+   SEO, content, PPC, copywriting talent marketplace for marketing networks.
+
+7. Startup hiring — https://bilohash.com/freelance/startup-hiring/
+   Lean MVP/design/growth hiring without enterprise overhead.
+
+8. NGO talent pools — https://bilohash.com/freelance/ngo-talent-pools/
+   Volunteer and pro-bono talent networks for nonprofits. GDPR contact forms.
+
+9. Remote EU teams — https://bilohash.com/freelance/remote-eu-teams/
+   Distributed hiring across Norway, Ukraine, Lithuania and Europe. NOK budgets, multilingual briefs, hreflang.
+
+10. Norwegian SMBs — https://bilohash.com/freelance/norwegian-smb/
+    Affordable freelance board for Norwegian small businesses. NOK gigs, Oslo/Bergen regions, 4 languages.
+
+## Region SEO pages
+- Oslo: https://bilohash.com/freelance/oslo/
+- Bergen: https://bilohash.com/freelance/bergen/
+- Stavanger, Trondheim, Drammen, Kristiansand, Tromsø
+- Europe: https://bilohash.com/freelance/europe/
+- Ukraine: https://bilohash.com/freelance/ukraine/
+
+## SEO & structured data
+- Schema.org: SoftwareApplication, WebPage, Organization, ProfessionalService, Service, JobPosting, FAQPage, BreadcrumbList, ItemList
+- Microdata on solution pages: WebPage, FAQPage, Question/Answer
+- Open Graph and Twitter Cards on all public pages
+- hreflang: no (default), en, uk, ru
+- Canonical URLs, geo tags (Norway, Europe), llms.txt for AI crawlers
+- Clickable skill tags → internal search (Elementor, WordPress, PHP, etc.)
+- Per-vertical custom meta keywords and 5 FAQ items per page (3 niche + 2 base)
+
+## Commercial intent (keywords)
+- Order freelance marketplace development Norway
+- PHP job board Europe / Upwork Fiverr clone CMS
+- Web agency talent platform / design studio freelance board
+- AI consultant marketplace / WordPress freelance script
+- Startup hiring board / NGO volunteer talent pool
+- Remote EU team hiring / Norwegian SMB freelance board
+- Multilingual freelance site with admin panel
+
+## Tech
+- PHP 8+, JSON storage, modular i18n (no/en/uk/ru)
+- Emerald responsive UI; admin: colours, reCAPTCHA, Grok/GPT chat widget
+- 12 demo projects, 6+ freelancers, Simple/Pro tiers, categories + More nav
+- Extensible: escrow, milestones, KYC, MySQL, white-label
+
+## Related Bilohash products
+- Booking CMS: https://bilohash.com/booking/site/
+- Auction CMS: https://bilohash.com/auction/site/
+- AI Platform: https://bilohash.com/ai/
+- WordPress AI Plugin: https://wordpress.org/plugins/bilohash-ai-chat-consultant/
+- Portfolio: https://bilohash.com/
+- Root llms.txt: https://bilohash.com/llms.txt

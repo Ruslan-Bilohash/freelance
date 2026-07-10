@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <rect width="1200" height="700" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="220" height="700" fill="#0c1222"/>
+  <text x="30" y="50" fill="#34d399" font-family="Segoe UI,sans-serif" font-size="16" font-weight="700">Freelance CMS</text>
+  <rect x="20" y="170" width="180" height="36" rx="6" fill="#10b981"/>
+  <rect x="240" y="20" width="940" height="56" fill="#fff" stroke="#e2e8f0"/>
+  <text x="270" y="55" fill="#1e293b" font-family="Segoe UI,sans-serif" font-size="20" font-weight="700">Proposals</text>
+  <rect x="260" y="100" width="860" height="560" rx="10" fill="#fff" stroke="#e2e8f0"/>
+  <rect x="280" y="130" width="820" height="40" fill="#f8fafc"/>
+  <text x="300" y="155" fill="#64748b" font-family="Segoe UI,sans-serif" font-size="12" font-weight="600">REF · FREELANCER · PROJECT · BID · STATUS</text>
+  <rect x="280" y="180" width="820" height="48" fill="#fff" stroke="#f1f5f9"/>
+  <rect x="280" y="240" width="820" height="48" fill="#fff" stroke="#f1f5f9"/>
+  <rect x="280" y="300" width="820" height="48" fill="#fff" stroke="#f1f5f9"/>
+  <rect x="700" y="195" width="80" height="22" rx="11" fill="rgba(99,102,241,.15)" stroke="#10b981"/>
+  <rect x="700" y="255" width="90" height="22" rx="11" fill="rgba(16,185,129,.15)" stroke="#10b981"/>
+  <rect x="700" y="315" width="80" height="22" rx="11" fill="rgba(16,185,129,.2)" stroke="#059669"/>
+</svg>

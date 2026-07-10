@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Static fallback — includes main Freelance CMS pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>https://bilohash.com/freelance/</loc><priority>1.0</priority></url>
+    <url><loc>https://bilohash.com/freelance/site/</loc><priority>0.95</priority></url>
+    <url><loc>https://bilohash.com/freelance/search.php</loc><priority>0.9</priority></url>
+    <url><loc>https://bilohash.com/freelance/contact.php</loc><priority>0.8</priority></url>
+    <url><loc>https://bilohash.com/freelance/llms.txt</loc><priority>0.5</priority></url>
+</urlset>

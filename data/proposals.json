@@ -1,0 +1,41 @@
+[
+    {
+        "id": "demo-001",
+        "ref": "FL-DEMO-7F3A9B2C",
+        "status": "pending",
+        "project_id": "nextjs-ecommerce-store",
+        "project_name": "Next.js headless e-commerce rebuild",
+        "freelancer": "Anna Hansen",
+        "email": "anna@demo.no",
+        "phone": "+4798765432",
+        "bid_amount": 73000,
+        "delivery_days": 21,
+        "created_at": "2026-06-26T15:43:19+00:00"
+    },
+    {
+        "id": "demo-002",
+        "ref": "FL-DEMO-4E8D1A0F",
+        "status": "shortlisted",
+        "project_id": "brand-identity-fintech",
+        "project_name": "Fintech startup brand identity + UI kit",
+        "freelancer": "Ole Nordmann",
+        "email": "ole@demo.no",
+        "phone": "+4744455566",
+        "bid_amount": 38000,
+        "delivery_days": 14,
+        "created_at": "2026-06-26T12:43:19+00:00"
+    },
+    {
+        "id": "demo-003",
+        "ref": "FL-DEMO-9C2B5E7D",
+        "status": "accepted",
+        "project_id": "ai-chatbot-support",
+        "project_name": "GDPR-friendly AI support chatbot with RAG",
+        "freelancer": "Maria Kowalska",
+        "email": "maria@demo.pl",
+        "phone": "+48123456789",
+        "bid_amount": 55000,
+        "delivery_days": 30,
+        "created_at": "2026-06-25T17:43:19+00:00"
+    }
+]

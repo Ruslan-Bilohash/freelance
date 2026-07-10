@@ -1,0 +1,13 @@
+DirectoryIndex index.php
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /freelance/
+RewriteRule ^(web-agencies|design-studios|ai-consultants|wordpress-shops|mobile-dev-teams|marketing-freelancers|startup-hiring|ngo-talent-pools|remote-eu-teams|norwegian-smb)/?$ solution.php?slug=$1 [L,QSA]
+RewriteRule ^(oslo|bergen|stavanger|trondheim|drammen|kristiansand|tromso|europe|ukraine)/?$ region.php?slug=$1 [L,QSA]
+ErrorDocument 404 /freelance/404.php
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^$ index.php [L]
+RewriteRule . 404.php [L]
+</IfModule>

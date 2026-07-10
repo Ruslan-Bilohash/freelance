@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <rect width="1200" height="700" fill="#0c1222"/>
+  <rect x="0" y="0" width="1200" height="48" fill="#10b981"/>
+  <text x="40" y="32" fill="#fff" font-family="Segoe UI,sans-serif" font-size="18" font-weight="700">Freelance CMS</text>
+  <rect x="80" y="100" width="1040" height="120" rx="12" fill="#141d33" stroke="#10b981"/>
+  <text x="120" y="150" fill="#e8edf5" font-family="Segoe UI,sans-serif" font-size="28" font-weight="700">Find freelance projects</text>
+  <text x="120" y="185" fill="#94a3b8" font-family="Segoe UI,sans-serif" font-size="14">Web · Design · AI · WordPress · Mobile · Marketing</text>
+  <rect x="80" y="260" width="320" height="200" rx="10" fill="#1a2744" stroke="#059669"/>
+  <rect x="90" y="270" width="300" height="100" rx="6" fill="#141d33"/>
+  <rect x="420" y="260" width="320" height="200" rx="10" fill="#1a2744" stroke="#059669"/>
+  <rect x="430" y="270" width="300" height="100" rx="6" fill="#141d33"/>
+  <rect x="760" y="260" width="320" height="200" rx="10" fill="#1a2744" stroke="#10b981"/>
+  <text x="920" y="360" fill="#34d399" font-family="Segoe UI,sans-serif" font-size="14" text-anchor="middle">Featured</text>
+  <rect x="80" y="500" width="150" height="80" rx="8" fill="#141d33"/>
+  <rect x="250" y="500" width="150" height="80" rx="8" fill="#141d33"/>
+  <rect x="420" y="500" width="150" height="80" rx="8" fill="#141d33"/>
+  <rect x="590" y="500" width="150" height="80" rx="8" fill="#141d33"/>
+</svg>
